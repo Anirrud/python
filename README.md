@@ -100,7 +100,7 @@ python_38.py - roman number to integer
 
 python_39.py - find season with day and month
 
-python_40.py - check if string and string is just scrambled words
+python_40.py - check if string 1  and string 2 is just scrambled words
 
 DAY - 5 :
 
