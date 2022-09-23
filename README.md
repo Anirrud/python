@@ -106,7 +106,7 @@ DAY - 5 :
 
 python_41.py - the no of letters in the last word of the scentence
 
-python_42.py - 
+python_42.py - salary,bonus and total salary 
 
 python_43.py - 
 
