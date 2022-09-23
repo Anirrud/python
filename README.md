@@ -1,12 +1,20 @@
 192110648
 
-DAY - 1 :
+TEST :
 
 exam_q1.py - leap year
 
 exam_q2.py - prime number or not
 
 exam_q3.py - get 3 marks find avg,total and assign grade
+
+exam_2_q1.py - sumsquare
+
+exam_3_q1.py - max no of words in ascentence
+
+exam_5_q1.py - how many nums are smaller than current number
+
+DAY - 1 :
 
 python_1.py - isomorphic
 
@@ -80,17 +88,17 @@ python_32.py - get user detail from client server
 
 python_33.py - how many nums are smaller than current number
 
-python_34.py - 
+python_34.py - valid palindrome or not
 
-python_35.py - 
+python_35.py - max no of steps
 
-python_36.py - 
+python_36.py - delete all occurance of c in s and print output
 
-python_37.py - 
+python_37.py - loxilogically sorted
 
-python_38.py - 
+python_38.py - roman number to integer
 
-python_39.py - 
+python_39.py - find season with day and month
 
 python_40.py - 
 
