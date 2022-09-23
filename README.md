@@ -52,4 +52,66 @@ python_20.py - to find uncommon words and print them
 
 DAY - 3 :
 
-python_21.py - 
+python_21.py - stock market
+
+python_22.py - team assembly possible combination
+
+python_23.py - numbers smaller than the current number 
+
+python_24.py - sum of two binary strings
+
+python_25.py - max no of steps that can be made forward
+
+python_26.py - mirror view of given value
+
+python_27.py - possible unique permutations
+
+python_28.py - anagrams
+
+python_29.py - regular expression matching
+
+python_30.py - min no of operations required to change one word to another
+
+DAY - 4 :
+
+python_31.py - fizzbuzz questoion
+
+python_32.py - get user detail from client server
+
+python_33.py - how many nums are smaller than current number
+
+python_34.py - 
+
+python_35.py - 
+
+python_36.py - 
+
+python_37.py - 
+
+python_38.py - 
+
+python_39.py - 
+
+python_40.py - 
+
+DAY - 5 :
+
+python_41.py - 
+
+python_42.py - 
+
+python_43.py - 
+
+python_44.py - 
+
+python_45.py - 
+
+python_46.py - 
+
+python_47.py - 
+
+python_48.py - 
+
+python_49.py - 
+
+python_50.py - 
