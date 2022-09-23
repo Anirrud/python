@@ -108,7 +108,7 @@ python_41.py - the no of letters in the last word of the scentence
 
 python_42.py - salary,bonus and total salary 
 
-python_43.py - 
+python_43.py - find the least number of sum of squares that is equal to n
 
 python_44.py - 
 
