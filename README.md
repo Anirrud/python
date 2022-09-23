@@ -84,7 +84,7 @@ DAY - 4 :
 
 python_31.py - fizzbuzz questoion
 
-python_32.py - get user detail from client server
+python_32.py - get no of student user detail from client server
 
 python_33.py - how many nums are smaller than current number
 
