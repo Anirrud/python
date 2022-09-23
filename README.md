@@ -17,6 +17,7 @@ exam_5_q1.py - how many nums are smaller than current number
 DAY - 1 :
 
 python_1.py - isomorphic
+![image_1](program_1.png)
 
 python_2.py - sum of square of even and odd numbers
 
