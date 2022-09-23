@@ -104,7 +104,7 @@ python_40.py - check if string and string is just scrambled words
 
 DAY - 5 :
 
-python_41.py - 
+python_41.py - the no of letters in the last word of the scentence
 
 python_42.py - 
 
