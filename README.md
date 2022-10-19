@@ -109,17 +109,3 @@ program_41.py - the no of letters in the last word of the scentence
 program_42.py - salary,bonus and total salary 
 
 program_43.py - find the least number of sum of squares that is equal to n
-
-program_44.py - 
-
-program_45.py - 
-
-program_46.py - 
-
-program_47.py - 
-
-program_48.py - 
-
-program_49.py - 
-
-program_50.py - 
