@@ -3,8 +3,7 @@ def maxArea( A):
 	r = len(A) -1
 	area = 0
 	while l < r:
-		area = max(area, min(A[l],
-						A[r]) * (r - l))
+		area = max(area, min(A[l],A[r]) * (r - l))
 		if A[l] < A[r]:
 			l += 1
 		else:
