@@ -10,13 +10,12 @@ def maxArea( A):
 		else:
 			r -= 1
 	return area
-a = [1, 5, 4, 3]
+a=[]
+print("enter the value(breaks at *)")    
+while True:
+    s = input()
+    if s == "*":
+        break 
+    else:
+        a.append(int(s))
 print(maxArea(a))
-b = [3, 1, 2, 4, 5]
-print(maxArea(b))
-c = [1,8,6,2,5,4,8,3,7]
-print(maxArea(c))
-d = [1,1]
-print(maxArea(d))
-e = [7,3] 
-print(maxArea(e))
